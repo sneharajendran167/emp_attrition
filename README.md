@@ -192,6 +192,9 @@ Add employee retention suggestions based on prediction
 This project successfully demonstrates:
 
 ✔ End-to-end ML workflow
+
 ✔ Real-time prediction using Streamlit
+
 ✔ Proper model training, saving, and deployment
+
 ✔ HR-focused analytics to reduce attrition
