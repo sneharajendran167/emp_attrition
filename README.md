@@ -5,13 +5,21 @@ This project predicts whether an employee is likely to leave the organization us
 **Project Structure**
 
 ├── emp_attrition.py          # Final Streamlit application + model training
+
 ├── emp_attrition.csv         # Cleaned dataset
+
 ├── encoders.pkl              # Saved label encoders
+
 ├── scaler.pkl                # StandardScaler
+
 ├── lr_model.pkl              # Logistic Regression model
+
 ├── rf_model.pkl              # Random Forest model
+
 ├── dt_model.pkl              # Decision Tree model
+
 ├── gb_model.pkl              # Gradient Boosting model
+
 ├── README.md                 # Project documentation
 
 **Project Overview**
