@@ -198,3 +198,7 @@ This project successfully demonstrates:
 ✔ Proper model training, saving, and deployment
 
 ✔ HR-focused analytics to reduce attrition
+
+@ Contact: 📧 Email: sneharaje167@gmail.com
+
+🌐 LinkedIn: https://www.linkedin.com/in/sneha-rajendiran-2427651b7
