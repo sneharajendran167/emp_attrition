@@ -67,7 +67,7 @@ Attrition vs OverTime
 
 Attrition vs Job Role
 
-Correlation heatmap
+Correlation heatmap,etc...
 
 These help understand which features strongly influence attrition.
 
