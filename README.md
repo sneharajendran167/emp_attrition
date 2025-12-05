@@ -161,7 +161,11 @@ Streamlit
 
 Matplotlib/Seaborn (EDA)
 
-**8. Key Insights**
+**8.Screenshot**
+
+
+
+**9. Key Insights**
 
 Overtime, low job satisfaction, and high workload are major attrition drivers
 
@@ -171,7 +175,7 @@ Lower income groups show higher attrition
 
 Certain job roles are more sensitive to attrition
 
-**9. How to Use This Project**
+**10. How to Use This Project**
 
 Clone repository
 
@@ -185,7 +189,7 @@ Select employee details
 
 Get prediction instantly
 
- **10. Future Enhancements**
+ **11. Future Enhancements**
 
 Add SHAP or Lime explainability
 
