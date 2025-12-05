@@ -8,17 +8,21 @@ This project predicts whether an employee is likely to leave the organization us
 
 ├── emp_attrition.csv         # Cleaned dataset
 
-├── encoders.pkl              # Saved label encoders
+├── le.pkl                    # Saved label encoders
+
+├── ohe.pkl                   # Saved One Hot Encoder
 
 ├── scaler.pkl                # StandardScaler
 
-├── lr_model.pkl              # Logistic Regression model
+├── lr.pkl                    # Logistic Regression model
 
-├── rf_model.pkl              # Random Forest model
+├── knn.pkl                   # K-Nearest Neighbors
 
-├── dt_model.pkl              # Decision Tree model
+├── rf.pkl                    # Random Forest model
 
-├── gb_model.pkl              # Gradient Boosting model
+├── dt.pkl                    # Decision Tree model
+
+├── gb.pkl                    # Gradient Boosting model
 
 ├── README.md                 # Project documentation
 
@@ -87,16 +91,22 @@ The following models were trained:
 
 Model	Status
 Logistic Regression	✔ Trained & Saved
+k-Nearest Neighbors ✔ Trained & Saved
 Decision Tree	✔ Trained & Saved
 Random Forest	✔ Best performance
 Gradient Boosting	✔ Trained & Saved
 
 All models were saved as:
 
-lr_model.pkl
-dt_model.pkl
-rf_model.pkl
-gb_model.pkl
+lr.pkl
+
+knn.pkl
+
+dt.pkl
+
+rf.pkl
+
+gb.pkl
 
 **5. Model Evaluation**
 
@@ -111,8 +121,6 @@ Recall
 F1-Score
 
 Confusion Matrix
-
-ROC-AUC Score
 
 Random Forest and Gradient Boosting performed the best.
 
