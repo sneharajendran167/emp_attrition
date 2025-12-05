@@ -163,6 +163,7 @@ Matplotlib/Seaborn (EDA)
 
 **8.Screenshot**
 
+<img width="1920" height="1080" alt="emp_attrition" src="https://github.com/user-attachments/assets/1ee5ff4d-5d16-48d0-82dd-e79cb021c0b5" />
 
 
 **9. Key Insights**
